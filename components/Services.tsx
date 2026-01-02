@@ -9,9 +9,9 @@ const services = [
     icon: "⚡"
   },
   {
-    title: "AI Integration",
-    desc: "Inyectamos inteligencia artificial real en tu flujo de trabajo, desde chatbots avanzados hasta automatización inteligente.",
-    icon: "🧠"
+    title: "Optimización de Sistemas",
+    desc: "Optimizamos tu infraestructura digital para el máximo rendimiento y eficiencia, asegurando que tus sistemas sean rápidos y confiables.",
+    icon: "⚙️"
   },
   {
     title: "E-Commerce Brutalista",
