@@ -1,0 +1,8 @@
+{
+  "name": "SkyNet Solutions",
+  "description": "High-performance digital ecosystem provider specializing in custom web development, support infrastructures, and advanced ticketing systems.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
